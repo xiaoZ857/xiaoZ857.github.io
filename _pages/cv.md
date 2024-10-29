@@ -18,7 +18,7 @@ Work experience
 ======
 * Sep 2023 – Present: Research Assistant
   * Shanghai Engineering Research Center for Blockchain Applications and Services
-  * Supervisor: Hao Xu
+  * Supervisor: Professor [Hao Xu](https://see.tongji.edu.cn/info/1393/12339.htm)
   * Led the development of a blockchain-based secure government review and annotation platform, featuring data encryption, secure file storage and sharing. Integrated large language model to generate summary of content. Related paper accepted at IEEE GBC.
 
 
@@ -28,7 +28,7 @@ Work experience
 
 * Mar 2021 – Jan 2023: Research Assistant
   * Moshan Blockchain Lab, University of Glasgow
-  * Supervisor: Professor Lei Zhang
+  * Supervisor: Professor [Lei Zhang](https://www.gla.ac.uk/schools/engineering/staff/leizhang/)
   * Proposed and implemented blockchain-enabled protocols, including a decentralized name services and p2p communication protocol. Related papers accepted at IEEE WF-IoT and IEEE Globecom Workshop. [Repo](https://github.com/xiaoZ857/BeMutual)
   * Developed blockchain-based platforms, including a data marketplace for federated learning use case and an IPR-protected knowledge-sharing platform. Related papers accepted at IEEE ICBC and IEEE BRAINS. [Repo](https://github.com/xiaoZ857/LTserver)
   * Designed and implemented experiments for RAFT queuing delay evaluation and optimized algorithm validation. Related paper submitted to IEEE/ACM Transactions On Networking.

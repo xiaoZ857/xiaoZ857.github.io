@@ -16,10 +16,11 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2023 – Present: Research Assistant
+  * Shanghai Engineering Research Center for Blockchain Applications and Services
+  * Supervisor: Hao Xu
+  * Led the development of a blockchain-based secure government review and annotation platform, featuring data encryption, secure file storage and sharing. Integrated large language model to generate summary of content. Related paper accepted at IEEE GBC.
+
 
 * Sep 2022 – Jan 2023: Developer
   * Sisyphus Protocol
@@ -28,7 +29,11 @@ Work experience
 * Mar 2021 – Jan 2023: Research Assistant
   * Moshan Blockchain Lab, University of Glasgow
   * Supervisor: Professor Lei Zhang
-  * Proposed and implemented blockchain-enabled networking protocols, including a decentralized name services and p2p communication protocol. Related papers accepted at IEEE WF-IoT and IEEE Globecom Workshop. Repo:https://github.com/xiaoZ857/BeMutual
+  * Proposed and implemented blockchain-enabled protocols, including a decentralized name services and p2p communication protocol. Related papers accepted at IEEE WF-IoT and IEEE Globecom Workshop. [Repo](https://github.com/xiaoZ857/BeMutual)
+  * Developed blockchain-based platforms, including a data marketplace for federated learning use case and an IPR-protected knowledge-sharing platform. Related papers accepted at IEEE ICBC and IEEE BRAINS. [Repo](https://github.com/xiaoZ857/LTserver)
+  * Designed and implemented experiments for RAFT queuing delay evaluation and optimized algorithm validation. Related paper submitted to IEEE/ACM Transactions On Networking.
+  * Modified RAFT and implemented it into a blockchain network built in Python. [Repo](https://github.com/xiaoZ857/FYP-Be-DNS)
+  * Proposed a decentralized AI agent framework for native AI entities to autonomously provide services, manage computational resources, and interact with decentralized networks. Related paper accepted at IEEE WF-IoT.
   
 Skills
 ======

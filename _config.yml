@@ -11,7 +11,7 @@ locale                   : "CN"
 title                    : "Zihan Zhou"
 title_separator          : "-"
 name                     : &name "Zihan Zhou"
-description              : &description "personal description"
+description              : &description "MPhil student at The Hong Kong University of Science and Technology (Guangzhou)"
 url                      : https://xiaoz857.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaoz857/xiaoz857.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "zzh.jpg"
   name             : "Zihan Zhou(周子涵)"
   pronouns         : # example: "she/her"  
-  bio              : 
+  bio              : "MPhil student at The Hong Kong University of Science and Technology (Guangzhou)"
   location         : "GuangZhou, China"
   employer         : "The Hong Kong University of Science and Technology (Guangzhou)"
   uri              : # URL

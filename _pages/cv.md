@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MPhil in Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou), 2025(expected)
+* B.Eng. in Electrical and Electronic Engineering, University of Electronic Science and Technology of China & University of Glasgow, 2023
 
 Work experience
 ======
@@ -22,15 +21,14 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2022 – Jan 2023: Developer
+  * Sisyphus Protocol
+  * Developed the Sisyphus Protocol, a DApp promoting self-improvement and the creators' economy by designing voting smart contracts using Solidity and testing with Hardhat
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar 2021 – Jan 2023: Research Assistant
+  * Moshan Blockchain Lab, University of Glasgow
+  * Supervisor: Professor Lei Zhang
+  * Proposed and implemented blockchain-enabled networking protocols, including a decentralized name services and p2p communication protocol. Related papers accepted at IEEE WF-IoT and IEEE Globecom Workshop. Repo:https://github.com/xiaoZ857/BeMutual
   
 Skills
 ======

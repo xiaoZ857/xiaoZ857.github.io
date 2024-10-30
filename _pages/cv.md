@@ -14,13 +14,12 @@ Education
 * MPhil in Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou), 2025(expected)
 * B.Eng. in Electrical and Electronic Engineering, University of Electronic Science and Technology of China & University of Glasgow, 2023
 
-Work experience
+Experience
 ======
 * Sep 2023 – Present: Research Assistant
   * Shanghai Engineering Research Center for Blockchain Applications and Services
   * Supervisor: Professor [Hao Xu](https://see.tongji.edu.cn/info/1393/12339.htm)
   * Led the development of a blockchain-based secure government review and annotation platform, featuring data encryption, secure file storage and sharing. Integrated large language model to generate summary of content. Related paper accepted at IEEE GBC.
-
 
 * Sep 2022 – Jan 2023: Developer
   * Sisyphus Protocol
